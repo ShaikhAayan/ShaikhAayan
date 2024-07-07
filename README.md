@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/25204871/aayan-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25204871/aayan-shaikh" height="30" width="40" /></a>
 <a href="https://instagram.com/aayan.m.s4168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayan.m.s4168" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aayanmshaikh3114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aayanmshaikh3114" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/aayanmshaikh3114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aayanmshaikh3114" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/aayanmshaikh3114" target="blank">
 <a href="/https://amackcode.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://amackcode.blogspot.com/" height="30" width="40" /></a>
 </p>
 
